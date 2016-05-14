@@ -1,4 +1,0 @@
-# Summary
-
-* [Dependencies](dependencies.md)
-
