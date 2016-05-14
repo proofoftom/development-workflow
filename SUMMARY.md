@@ -4,4 +4,5 @@
    * [Dependencies](dependencies.md)
        * Aquifer
        * Drupal VM
+       * OpenDevShop
 
