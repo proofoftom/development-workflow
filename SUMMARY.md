@@ -6,4 +6,5 @@
        * Drupal VM
        * OpenDevShop
 * Creating a New Site
+   * From Scratch
 
