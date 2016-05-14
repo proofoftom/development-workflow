@@ -1,4 +1,4 @@
 # Summary
 
-* [Dependencies](dependencies.md)
+* [Summary](summary.md)
 
