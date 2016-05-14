@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-   * Dependencies
+   * [Dependencies](dependencies.md)
 
