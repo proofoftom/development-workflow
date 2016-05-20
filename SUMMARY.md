@@ -3,8 +3,8 @@
 * [Introduction](README.md)
    * [Technologies](technologies.md)
        * Aquifer
-       * Drupal VM
        * Terra CLI
+       * Drupal VM
        * OpenDevShop
 * [Creating a New Site](creating_a_new_site.md)
    * From Scratch
