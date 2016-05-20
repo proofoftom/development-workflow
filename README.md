@@ -17,7 +17,7 @@ This is the collaborative concept of an ideal workflow. It leverages a handful o
 
 ### Staging Server
 
-For our staging server, [OpenDevShop](http://www.opendevshop.com/) will grant us a lot of [continuous integration functionality out of the box](http://www.thinkdrop.net/blog-entry/may-12-2015-734pm/continuous-deployment-integration-testing-delivery-open-devshop) and is more production ready than Terra at the moment. There is a good amount of momentum picking up around Terra as we speak where the end goal is to replace the hosting components of Aegir and OpenDevShop. Join the [DevShop](https://gitter.im/opendevshop/devshop) and [Terra CLI](https://gitter.im/terra-ops/terra-cli) Glitters to get in on the discussion.
+For our staging server, [OpenDevShop](http://www.opendevshop.com/) will grant us a lot of [continuous integration functionality out of the box](http://www.thinkdrop.net/blog-entry/may-12-2015-734pm/continuous-deployment-integration-testing-delivery-open-devshop) and is more production ready than Terra at the moment. There is a good amount of momentum picking up around Terra as we speak where the end goal is to replace the hosting components of Aegir and OpenDevShop. Join the [DevShop](https://gitter.im/opendevshop/devshop) and [Terra CLI](https://gitter.im/terra-ops/terra-cli) Gitters to get in on the discussion.
 
 ### Local Development
 
