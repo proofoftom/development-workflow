@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Tehcnologies](technologies.md)
+   * [Technologies](technologies.md)
        * Aquifer
        * Drupal VM
        * Terra CLI
