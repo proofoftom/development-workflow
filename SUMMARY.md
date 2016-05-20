@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Dependencies](dependencies.md)
+   * [Tehcnologies](dependencies.md)
        * Aquifer
        * Drupal VM
        * Terra CLI
