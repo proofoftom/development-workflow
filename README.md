@@ -31,7 +31,7 @@ Bringing us one step closer to DevOps nirvana, making us rockstar contributors a
 
 ### Drush Make
 
-Lastly, I’m an evangelist of the [drush make workflow](https://www.phase2technology.com/blog/creating-maintainable-sites-with-drush-make/). A recently released project called [Aquifer](http://aquifer.io/) helps in transitioning existing sites while also streamlining new ones. We’re not locked down to using the Drush make workflow as Terra and DevShop support regular site repositories which allows us to transition as we go. Ideally though we should push for all projects to be built with Aquifer. Also, Aegir and DevShop (by inheritance) are more geared towards sites built from make files.
+Lastly, I’m an evangelist of the [drush make workflow](https://www.phase2technology.com/blog/creating-maintainable-sites-with-drush-make/). A recently released project called [Aquifer](http://aquifer.io/) helps in transitioning existing sites while also streamlining new ones. We’re not locked down to using the Drush make workflow as Terra and DevShop support regular site repositories which allows us to transition as we go. Ideally though we should push for all projects to be built with Aquifer. Also, Aegir (and DevShop by inheritance) is more geared towards sites built from make files.
 
 This brings us pretty damn close to DevOps nirvana.
 
